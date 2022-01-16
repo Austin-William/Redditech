@@ -1,6 +1,6 @@
 # redditech
 
-A new Flutter project.
+A new Flutter project to learn the basics of the language.
 
 ## Getting Started
 
