@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'dart:convert';
 import 'package:redditech/global/variables.dart' as global;
 
-final CLIENT_ID = 'ebve1E0Sh4vD5ZsTMxL8Tw';
+final CLIENT_ID = '';
 final TYPE = 'code';
 final RANDOM_STRING = 'Redditech-String34546';
 final REDIRECT_URI = 'http://ripepitech';
